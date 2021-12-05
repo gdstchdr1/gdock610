@@ -10,4 +10,4 @@
        Base on OpenWrt R21.10.* by lean & lienol
        Kernel 5.4.* - gdstchdr 1.2
        Packaged by gdstchdr on 2021-12-5
-       SOC: IPQ4019	     BOARD: GDOCK-2
+       SOC: IPQ4019	     BOARD: CiCi-610
