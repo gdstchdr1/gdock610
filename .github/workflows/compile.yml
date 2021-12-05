@@ -42,7 +42,7 @@ jobs:
       matrix:
         target: [Lede_gdock_610]
         
-        # [Lede_source,Lienol_source,Mortal_source,Tianling_source,openwrt_amlogic,Lede_gdock_610]
+        # [Lede_source,Lienol_source,Mortal_source,Tianling_source,openwrt_amlogic]
 
     steps:
     - name: 准备结束
